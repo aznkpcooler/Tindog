@@ -1,2 +1,1 @@
-# Tindog
-Tindog Front Cover
+TinDog Starting Files
